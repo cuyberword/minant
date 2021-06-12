@@ -1,1 +1,1 @@
-# minant
+# minanto
